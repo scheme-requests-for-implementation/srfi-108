@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2013 Per Bothner <per@bothner.com>
+#
+# SPDX-License-Identifier: MIT
+
 * SRFI 108: Named quasi-literal constructors
 
 ** by Per Bothner
